@@ -1,6 +1,5 @@
-# CSU
+# GUI Development, Spring 2024
 Ed Jeanty
-GUI Development, Spring 2024
 ---
 Languages I've can currently programmed in
 - Python
